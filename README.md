@@ -26,6 +26,7 @@ The first line imports the musician.py file itself. The second line imports all 
 Here is an example of a basic python library - **random.py**. You can find documentation on this library <a href="https://docs.python.org/2/library/random.html">here</a> to learn about all the different functions you can call from it.
 
 Here is some simple code that uses the random library:
+
 ```python
 import random
 
@@ -46,4 +47,4 @@ There are many libraries out there we can import to add to our python coding pow
 
 #Labs:
 
-<a href="https://github.com/learn-co-curriculum/cssi-5.4-python-dice-roll">Random Library Lab: Dice Rolling Game App</a>
+<a href="https://github.com/learn-co-curriculum/cssi-5.4-python-dice-roll">Random Library Lab: Advanced Dice Rolling Game App</a>
