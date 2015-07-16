@@ -44,7 +44,3 @@ In Monopoly, at the beginning of each turn a player rolls two six sided dice. Th
 
 #Conclusion:
 There are many libraries out there we can import to add to our python coding power. Just take a look at the documentation to find out what cool functionality one will add to your script! We will be using import a lot when we talk about Google App Engine next week.
-
-#Labs:
-
-<a href="https://github.com/learn-co-curriculum/cssi-5.4-python-dice-roll">Random Library Lab: Advanced Dice Rolling Game App</a>
