@@ -41,4 +41,4 @@ In Monopoly, at the beginning of each turn a player rolls two six sided dice. Th
 #Conclusion:
 There are many libraries out there we can import to add to our python coding power. Just take a look at the documentation to find out what cool functionality one will add to your script! We will be using import a lot when we talk about Google App Engine next week.
 
-<a href='https://learn.co/lessons/cssi-5.2-python-importing' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-5.2-python-importing' title='Python - Importing Libraries and Modules'>Python - Importing Libraries and Modules</a> on Learn.co and start learning to code for free.</p>
